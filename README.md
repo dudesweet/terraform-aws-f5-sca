@@ -79,7 +79,7 @@ The following AWS Technologies or Deployment considerations are compatible (not 
 - Understanding of F5 products in AWS - https://clouddocs.f5.com/cloud/public/v1/aws_index.html and our GitHub repository - https://github.com/F5Networks/f5-aws-cloudformation
 - Understanding of F5 BIG-IP modules, virtual servers
 
-## Meeting Compliance Requirments
+## Meeting Compliance Requirements
 
 The SCA is the base cloud topology allowing you to build to meet compliance across industry and verticals.  The [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) is clear. **AWS is responsible for the scurity of the cloud** and **you are responsible for your security and compliance in the cloud**. F5 technoligies enable you to focus on the **in the cloud** dimension. 
 
